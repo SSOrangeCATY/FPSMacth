@@ -5,6 +5,8 @@
 - QQ: 771884981
 ### 主页 :
 -  https://space.bilibili.com/21254202
+### BETA : 针对适配1.1.4版本
+-  https://github.com/SSOrangeCATY/FPSMacth/tree/beta
 
 ### 模组反馈：
 - https://docs.qq.com/sheet/DQnZtS2l6dmNsaHBw?tab=BB08J2
